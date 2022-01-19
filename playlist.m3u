@@ -85,11 +85,11 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="FoodNetowrk.it" tvg-name="Foodnetwork" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/FoodNetwork.png" group-title="DISCOVERY",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?sd=10&rebase=on&mux_audio=true
-#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/239/logo?width=240" group-title="Altre Tv",Test 1
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/239/logo?width=240" group-title="Altre Tv",Cielo
 https://www.mytivu.it/Application/Channels/Cielo.php
-#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv 8" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/237/logo?width=240" group-title="Altre Tv",Test 2
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv 8" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/237/logo?width=240" group-title="Altre Tv",Tv8 
 https://www.mytivu.it/Application/Channels/TV8.php
-#EXTINF:-1 tvg-id="SkyTg24.it" tvg-name="SkyTg24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/240/logo?width=240" group-title="Altre Tv",Test 3
+#EXTINF:-1 tvg-id="SkyTg24.it" tvg-name="SkyTg24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/240/logo?width=240" group-title="Altre Tv",Sky Tg 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La7" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/La7.png" group-title="Altre Tv",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
