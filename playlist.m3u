@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://rebrand.ly/epgitalia"
 #EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="RAI",Tv italiana all'estero
 https://rebrand.ly/tutorialnordvpn
+#EXTINF:-1 tvg-id="tutorial.it" tvg-name="tutorial youtube" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://image.freepik.com/premium-vector/light-bulb-icon-ideas-symbol_275806-519.jpg" group-title="RAI",Tutorial, trucchi , consigli
+https://www.youtube.com/watch?v=ya38TbFQ5J0&list=PLwvrAsS8XzJLvh62fHtRXaM83b8vRwkee
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiNews.png" group-title="RAI",Rai News
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai4k.png" group-title="RAI",Rai 4k (non stabile)
