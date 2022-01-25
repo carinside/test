@@ -14,7 +14,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3 (b)
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3 
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai4.png"group-title="RAI",Rai 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
