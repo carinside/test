@@ -46,29 +46,32 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b7)/index
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Gf.png" group-title="MEDIASET",GF Un'ora fa
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b9)/index.m3u8
-#EXTINF:-1 tvg-id="Tgcom.it" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Tgcom24.png" group-title="MEDIASET",TG COM
+#EXTINF:-1 tvg-id="Tgcom.it" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/197/logo?width=240" group-title="MEDIASET",TG COM
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Italia1.png" group-title="MEDIASET",Italia 1
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" group-title="MEDIASET",Italia 1
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i1)/manifest.mpd
-#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Italia2.png" group-title="MEDIASET",Italia 2
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/191/logo?width=240" group-title="MEDIASET",Italia 2
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(i2)/manifest.mpd
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rete4.png" group-title="MEDIASET",Rete 4
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" group-title="MEDIASET",Rete 4
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(r4)/manifest.mpd
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Canale5.png" group-title="MEDIASET",Canale 5
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" group-title="MEDIASET",Canale 5
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(c5)/manifest.mpd
-#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Topcrime.png" group-title="MEDIASET",TOPcrime
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/193/logo?width=240" group-title="MEDIASET",TOPcrime
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(lt)/manifest.mpd
-#EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Iris.png" group-title="MEDIASET",Iris
+#EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/192/logo?width=240" group-title="MEDIASET",Iris
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ki)/manifest.mpd
-#EXTINF:-1 tvg-id="iris.it" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://www.easysite.one/img/La5.png" group-title="MEDIASET",La 5
+#EXTINF:-1 tvg-id="iris.it" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=240" group-title="MEDIASET",La 5
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ka)/manifest.mpd
-#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine34" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cine34.png" group-title="MEDIASET",Cine 34
+#EXTINF:-1 tvg-id="iris.it" tvg-name="mEDIASET 27" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/601/logo?width=240" group-title="MEDIASET",Mediaset 27
+https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(ts)/manifest.mpd
+
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine34" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/574/logo?width=240&theme=dark" group-title="MEDIASET",Cine 34
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(b6)/manifest.mpd
-#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/MediasetExtra.png" group-title="MEDIASET",Med. Extra
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=240" group-title="MEDIASET",Med. Extra
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kq)/manifest.mpd
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Focus.png" group-title="MEDIASET",Focus
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/249/logo?width=240" group-title="MEDIASET",Focus
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(fu)/manifest.mpd
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Boing.png" group-title="MEDIASET",Boing
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/195/logo?width=240" group-title="MEDIASET",Boing
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cartoonito.png" group-title="MEDIASET",Cartoonito
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
@@ -84,11 +87,11 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="FoodNetowrk.it" tvg-name="Foodnetwork" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/FoodNetwork.png" group-title="DISCOVERY",Food Network
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?sd=10&rebase=on&mux_audio=true
-#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/LogoTv.png" group-title="Altre Tv",Test 1
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/239/logo?width=240" group-title="Altre Tv",Cielo
 https://www.mytivu.it/Application/Channels/Cielo.php
-#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv 8" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/LogoTv.png" group-title="Altre Tv",Test 2
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv 8" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/237/logo?width=240" group-title="Altre Tv",Tv8 
 https://www.mytivu.it/Application/Channels/TV8.php
-#EXTINF:-1 tvg-id="SkyTg24.it" tvg-name="SkyTg24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/LogoTv.png" group-title="Altre Tv",Test 3
+#EXTINF:-1 tvg-id="SkyTg24.it" tvg-name="SkyTg24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/240/logo?width=240" group-title="Altre Tv",Sky Tg 24
 https://www.mytivu.it/Application/Channels/SkyTG24.php
 #EXTINF:-1 tvg-id="la7.it" tvg-name="La7" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/La7.png" group-title="Altre Tv",La 7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
