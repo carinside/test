@@ -3,6 +3,8 @@
 https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_1_hd&profile=8
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-chno="101" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RsiLa2.png", RSI La 2 HD
 https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_2_hd&profile=8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-chno="121" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RaiNews.png", Rai News
+https://streams.wilmaa.com/m3u8/get?channelId=rai_news&profile=8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/Rai1.png", Rai 1
 https://streams.wilmaa.com/m3u8/get?channelId=rai_1&profile=8
 #EXTINF:-1 tvg-id="Rai2.it" tvg-chno="117" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/Rai2.png", Rai 2
@@ -23,16 +25,18 @@ https://streams.wilmaa.com/m3u8/get?channelId=rai_scuola&profile=8
 https://streams.wilmaa.com/m3u8/get?channelId=rai_storia&profile=8
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-chno="119" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RaiSport.png", Rai Sport 1
 https://streams.wilmaa.com/m3u8/get?channelId=rai_sport_1&profile=8
-#EXTINF:-1 tvg-id="RaiNews.it" tvg-chno="121" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RaiNews.png", Rai News
-https://streams.wilmaa.com/m3u8/get?channelId=rai_news&profile=8
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="122" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RaiGulp.png", Rai Gulp
+https://streams.wilmaa.com/m3u8/get?channelId=rai_gulp&profile=8
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="235" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RaiYoyo.png", Rai Yoyo
+https://streams.wilmaa.com/m3u8/get?channelId=rai_yoyo&profile=8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-chno="148" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/Italia1.png", Italia 1 HD
 https://streams.wilmaa.com/m3u8/get?channelId=italia_1_hd&profile=8
 #EXTINF:-1 tvg-id="Italia2.it" tvg-chno="208" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/Italia2.png", Italia 2
 https://streams.wilmaa.com/m3u8/get?channelId=italia_2&profile=8
 #EXTINF:-1 tvg-id="Rete4.it" tvg-chno="143" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/Rete4.png", Rete4 HD
-https://-1.wilmaa.com/m3u8/get?channelId=rete_4_hd&profile=8
+https://streams.wilmaa.com/m3u8/get?channelId=rete_4_hd&profile=8
 #EXTINF:-1 tvg-id="Canale5.it" tvg-chno="141" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/Canale5.png", Canale 5 HD
-https://-1.wilmaa.com/m3u8/get?channelId=canale_5_hd&profile=8
+https://streams.wilmaa.com/m3u8/get?channelId=canale_5_hd&profile=8
 #EXTINF:-1 tvg-id="Iris.it" tvg-chno="207" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/Iris.png", Iris
 https://streams.wilmaa.com/m3u8/get?channelId=iris&profile=8
 #EXTINF:-1 tvg-id="LA5.it" tvg-chno="216" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/La5.png", La5
@@ -55,10 +59,6 @@ https://streams.wilmaa.com/m3u8/get?channelId=giallo_it&profile=8
 https://streams.wilmaa.com/m3u8/get?channelId=paramount_channel_it&profile=8
 #EXTINF:-1 tvg-id="Spike.it" tvg-chno="247" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/Spike.png", Spike Italia
 https://streams.wilmaa.com/m3u8/get?channelId=spike_italia&profile=8
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="122" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RaiGulp.png", Rai Gulp
-https://streams.wilmaa.com/m3u8/get?channelId=rai_gulp&profile=8
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="235" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RaiYoyo.png", Rai Yoyo
-https://streams.wilmaa.com/m3u8/get?channelId=rai_yoyo&profile=8
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="195" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://resources.wilmaa.com/logos/single/dark/center/360x120px/frisbee_it.png", Frisbee
 https://streams.wilmaa.com/m3u8/get?channelId=frisbee_it&profile=8
 #EXTINF:-1 tvg-id="K2.it" tvg-chno="210" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/K2.png", K2
