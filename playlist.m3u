@@ -129,7 +129,7 @@ https://it.fms2.premio.link/bike/index.m3u8
 #EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia MOTORI" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Go-Tv.png" group-title="Sport", Go-Tv
 https://play.cdn.enetres.net/79CE6A0C6AF94F7EB0F93BD0DE2949EF029/02116/playlist.m3u8
 #EXTINF:-1 tvg-id="supertennis.it" tvg-name="Supertennis" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Supertennis.png" group-title="Sport",Supertennis HD
-https://streamcdnm19-33796764e4294a99a78b7b8b8239c0e2.msvdn.net/fitdefault/d4647546-f787-4cd1-a0a1-9d9c492c5bc0/f60ccca6-cca6-4bf8-b65d-47ceb9b3bbe9.ism/manifest(format=m3u8-aapl)
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/supertennix.html?manifest_url=https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia HD Plus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaHD.png" group-title="Sport",Sport Italia HD 
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="Paramount.it" tvg-name="Sport Italia 24 LIVE" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/SportitaliaLive24.png" group-title="Sport",Sport Italia 24 LIVE
