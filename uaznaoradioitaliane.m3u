@@ -1,5 +1,5 @@
-﻿#EXTM3
-#EXTINF:-1 group-title=",UAZ NAO - Radio Italiane
+#EXTM3U
+#EXTINF:-1 group-title="",--- UAZ NAO Radio Italiane ---
 http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 group-title="RADIO: ITALIA",Rai Radio 1
 http://icestreaming.rai.it/1.mp3
@@ -619,3 +619,5 @@ https://stream3.xdevel.com/audio2s975447-158/stream/icecast.audio
 http://icecast.unitedradio.it/Virgin.mp3
 #EXTINF:-1 group-title="RADIO: ITALIA",Yes Dance Radio
 http://sr2.inmystream.info:8013/stream
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/ff/fe/fffebd29701a57c430ed0b23cb991dc1.jpg" group-title="RADIO INT: LEBANON",Voice of Charity 105.9 FM Beirut
+http://31.14.40.21:4596/;
