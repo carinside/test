@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1,--- PLAYLIST ---
 http://uaznao.com/files/downloadapp.mp4
-#EXTINF:-1 tvg-logo="https://img2.freepng.fr/20180403/ape/kisspng-logo-tv-television-channel-this-tv-tv-shows-5ac33215b01621.9339820715227417817213.jpg" group-title="Canali RAI",=== Canali RAI===
+#EXTINF:-1 tvg-logo="https://img2.freepng.fr/20180403/ape/kisspng-logo-tv-television-channel-this-tv-tv-shows-5ac33215b01621.9339820715227417817213.jpg" group-title="Canali TV",=== Canali RAI===
 http://uaznao.com/files/downloadapp.mp4
