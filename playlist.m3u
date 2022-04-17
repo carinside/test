@@ -1,4 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://images.all-free-download.com/images/graphiclarge/online_tv_streaming_logo_6829495.jpg" group-title="RAI",Tv italiana 
-https://uaznao.com/files/downloadapp.mp4
-#EXT-X-ENDLIST
+#EXTINF:-1,--- PLAYLIST ---
+http://uaznao.com/files/downloadapp.mp4
+#EXTINF:-1 group-title="Stream Lista",[COLOR lime]---LAST UPDATE 09-04-2022 H. 17.30---[/COLOR]
+http://uaznao.com/files/downloadapp.mp4
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/logo.png" group-title="Canali RAI",=== Canali RAI===
+http://uaznao.com/files/downloadapp.mp4
