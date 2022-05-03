@@ -55,9 +55,9 @@ http://94.23.67.20:8034/stream
 https://d2a481t1usahi0.cloudfront.net/live/16553012.mp3?episode_id=16553012&show_id=1229406&user_id=7554166&tenant=SPREAKER&timestamp=1619304116&station_hash=server_18768_live_16553012&media_type=dynamic&preroll=false
 #EXTINF:-1 group-title="RADIO: ITALIA",MB Studio
 http://37.48.83.45:8204/
-#EXTINF:-1 group-title="RADIO: ITALIA",Napoli Radio Web
+#EXTINF:-1 group-title="RADIO: ITALIA",Radio  Zeta Elle   
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8309&type=s1
-#EXTINF:-1 group-title="RADIO: ITALIA",Napoli Radio Web Opz. 2
+#EXTINF:-1 group-title="RADIO: ITALIA",Radio  Zeta Elle Web Opz. 2
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8309&type=s1&fbclid=IwAR2k9cZx5mFO1_HLYa6TzJLsQEzmeQiJupxJ6QAd_7EKpDx3cn4_Gr5dRUM
 #EXTINF:-1 group-title="RADIO: ITALIA",New Radio Star
 http://onair20.xdevel.com:8092/
