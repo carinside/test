@@ -763,9 +763,49 @@ https://tivustream.website/urls/yuongtvallmusic
 https://tivustream.website/urls/zerounatvmusic
 
 
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="667302" tvg-name="TGR Abruzzo"  group-title="TV REGIONALI", TGR Abruzzo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=667302
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668458" tvg-name="TGR Basilicata"  group-title="TV REGIONALI", TGR Basilicata
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668458
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668710" tvg-name="TGR Bolzano"  group-title="TV REGIONALI", TGR Bolzano
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668710
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668460" tvg-name="TGR Calabria"  group-title="TV REGIONALI", TGR Calabria
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668460
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668461" tvg-name="TGR Campania"  group-title="TV REGIONALI", TGR Campania
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668461
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668648" tvg-name="TGR Emilia Romagna"  group-title="TV REGIONALI", TGR Emilia Romagna
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668648
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668651" tvg-name="TGR Friuli Venezia Giulia"  group-title="TV REGIONALI", TGR Friuli Venezia Giulia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668651
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668666" tvg-name="TGR Lazio"  group-title="TV REGIONALI", TGR Lazio
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668666
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668667" tvg-name="TGR Liguria"  group-title="TV REGIONALI", TGR Liguria
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668667
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668685" tvg-name="TGR Lombardia"  group-title="TV REGIONALI", TGR Lombardia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668685
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668686" tvg-name="TGR Marche"  group-title="TV REGIONALI", TGR Marche
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668686
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668691" tvg-name="TGR Molise"  group-title="TV REGIONALI", TGR Molise
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668691
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668692" tvg-name="TGR Piemonte"  group-title="TV REGIONALI", TGR Piemonte
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668692
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668697" tvg-name="TGR Puglia"  group-title="TV REGIONALI", TGR Puglia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668697
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668699" tvg-name="TGR Sardegna"  group-title="TV REGIONALI", TGR Sardegna
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668699
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668707" tvg-name="TGR Sicilia"  group-title="TV REGIONALI", TGR Sicilia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668707
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668709" tvg-name="TGR Toscana"  group-title="TV REGIONALI", TGR Toscana
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668709
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="739016" tvg-name="TGR Trento"  group-title="TV REGIONALI", TGR Trento
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=739016
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668711" tvg-name="TGR Umbria"  group-title="TV REGIONALI", TGR Umbria
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668711
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668726" tvg-name="TGR Val D'Aosta"  group-title="TV REGIONALI", TGR Val D'Aosta
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668726
+#EXTINF: -1 tvg-logo="https://jurijnota.github.io/iptv-italy/logos/tgr.png" tvg-id="668727" tvg-name="TGR Veneto"  group-title="TV REGIONALI", TGR Veneto
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=668727
 
-
-http://patbuweb.com/iptv/e2liste/startend.avi
 #EXTINF:-1 tvg-name="87 Tv" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhNZiEg0cu-JeNpF2XYmP9ORukYAxj8bWTzzSKS=s48-c-k-c0x00ffffff-no-rj" tvg-shift="0" group-title="TV REGIONALI",87 Tv
 https://eu1.servers10.com:8081/8022/index.m3u8
 #EXTINF:-1 tvg-name="50 Canale" tvg-logo="http://odmsto.com/uploads/tv_image/sm/50-canale.png" tvg-shift="0" group-title="TV REGIONALI",50 Canale
