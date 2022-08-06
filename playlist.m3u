@@ -6,39 +6,39 @@ https://uaznao.com/files/uaznaopc.mp4
 #EXTINF:-1 tvg-id="tutorial.it" tvg-name="tutorial youtube" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://image.freepik.com/premium-vector/light-bulb-icon-ideas-symbol_275806-519.jpg" group-title="RAI",Tutorial, trucchi , consigli
 https://www.youtube.com/watch?v=ya38TbFQ5J0&list=PLwvrAsS8XzJLvh62fHtRXaM83b8vRwkee
 #EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiNews.png" group-title="RAI",Rai News
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai4k.png" group-title="RAI",Rai 4k (non stabile)
 https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai1.png" group-title="RAI",Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai2.png" group-title="RAI",Rai 2 
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3 
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai4.png"group-title="RAI",Rai 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
 
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai5.png" group-title="RAI",Rai 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
 
 #EXTINF:-1 tvg-id="Raimovie.it" tvg-name="Rai Movie" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiMovie.png" group-title="RAI",Rai Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiPremium.png" group-title="RAI",Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
 
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiGulp.png" group-title="RAI",Rai Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Yoyo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiYoyo.png" group-title="RAI",Rai Yoyo
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiSport.png" group-title="RAI",Rai Sport
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiStoria.png" group-title="RAI",Rai Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
 #EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Scuola" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiScuola.png" group-title="RAI",Rai Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
 
 
 
