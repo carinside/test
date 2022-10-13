@@ -35,6 +35,8 @@ http://s8.mediastreaming.it:7580/
 http://188.165.192.5:8388
 #EXTINF:-1 group-title="RADIO: ITALIA",Bella Radio
 http://server.bellaradio.it:8090/a1.mp3
+#EXTINF:-1 group-title="RADIO: ITALIA",Cremonia Radio
+https://nr6.newradio.it/proxy/rocana00?mp=/stream
 #EXTINF:-1 group-title="RADIO: ITALIA",Controradio
 http://streaming.controradio.it:8190/
 #EXTINF:-1 group-title="RADIO: ITALIA",Gamma Radio
