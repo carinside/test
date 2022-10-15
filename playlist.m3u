@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="http://rebrand.ly/epgitalia"
-#EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn-icons-png.flaticon.com/512/4703/4703650.png" group-title="RAI",Guarda su PC la TV
+#EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn-icons-png.flaticon.com/512/4703/4703650.png" group-title="RAI",Guarda la TV
 https://uazzyao.eu/tvitaliana.mp4
 
 
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="RELAX: Beach TV"group-title="Webcam",RELAX: Beach TV
-http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXT-X-ENDLIST
