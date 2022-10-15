@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://rebrand.ly/epgitalia"
 #EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn-icons-png.flaticon.com/512/4703/4703650.png" group-title="RAI",Guarda la TV
 https://uazzyao.eu/tvitaliana.mp4
-
+#EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn-icons-png.flaticon.com/512/4703/4703650.png" group-title="RAI",Guarda la TV
+https://uazzyao.eu/tvitaliana.mp4
 
 #EXT-X-ENDLIST
