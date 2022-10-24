@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://rebrand.ly/epgitalia"
+#EXTM3U url-tvg="http://epg-guide.net/wltv.gz"
 #EXTINF:-1 tvg-id="RSILa1.ch" tvg-chno="100" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RsiLa1.png", RSI La 1 HD
 https://streams.wilmaa.com/m3u8/get?channelId=rsi_la_1_hd&profile=8
 #EXTINF:-1 tvg-id="RSILa2.ch" tvg-chno="101" group-title="Italia Tv con VPN Svizzera" tvg-logo="https://easysite.one/img/RsiLa2.png", RSI La 2 HD
