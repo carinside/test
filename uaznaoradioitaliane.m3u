@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="",--- UAZ NAO Radio Italiane ---
 http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 group-title="RADIO: ITALIA",Radio Svizzera Classica
+https://stream.srg-ssr.ch/m/rsc_it/mp3_128
 #EXTINF:-1 group-title="RADIO: ITALIA",Rai Radio 1
 http://icestreaming.rai.it/1.mp3
 #EXTINF:-1 group-title="RADIO: ITALIA",Rai Radio 1 Sport 
