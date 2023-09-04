@@ -75,6 +75,8 @@ https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(fu)/mani
 https://live3.msf.cdn.mediaset.net/content/dash_d0_clr_vos/live/channel(kb)/manifest.mpd
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cartoonito.png" group-title="MEDIASET",Cartoonito
 https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Circle-icons-chat.svg/2048px-Circle-icons-chat.svg.png" group-title="MEDIASET",SUPPORTO - CONTATTI
+https://uaznao.com/video/supportotelegram.mp4
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/NOVE_logo.png" group-title="DISCOVERY",Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-id="Dmax.it" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="http://odmsto.com/uploads/tv_image/sm/dmax-hd.png" group-title="DISCOVERY",Dmax
