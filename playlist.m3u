@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://rebrand.ly/epgitalia"
+#EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Circle-icons-chat.svg/2048px-Circle-icons-chat.svg.png" group-title="RAI",SUPPORTO - PREMIUM TV (m3u)
+https://uaznao.com/video/result.mp4
 #EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Circle-icons-chat.svg/2048px-Circle-icons-chat.svg.png" group-title="RAI",SUPPORTO - CONTATTI
 https://uaznao.com/video/supportotelegram.mp4
 #EXTINF:-1 tvg-id="tvitaliana.it" tvg-name="tv italiana" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://cdn-icons-png.flaticon.com/512/4703/4703650.png" group-title="RAI",Guarda su PC la TV
